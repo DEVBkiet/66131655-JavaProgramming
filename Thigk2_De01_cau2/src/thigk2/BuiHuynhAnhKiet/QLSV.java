@@ -31,5 +31,35 @@ public class QLSV {
 		return s;
 	}
 
-	
+	public String getMaSV() {
+		return maSV;
+	}
+
+	public void setMaSV(String maSV) {
+		this.maSV = maSV;
+	}
+
+	public String getHoTen() {
+		return hoTen;
+	}
+
+	public void setHoTen(String hoTen) {
+		this.hoTen = hoTen;
+	}
+
+	public int getNamSinh() {
+		return namSinh;
+	}
+
+	public void setNamSinh(int namSinh) {
+		this.namSinh = namSinh;
+	}
+
+	public double getDiemTB() {
+		return diemTB;
+	}
+
+	public void setDiemTB(double diemTB) {
+		this.diemTB = diemTB;
+	}
 }
