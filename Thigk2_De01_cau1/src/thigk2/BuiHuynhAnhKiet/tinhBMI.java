@@ -1,7 +1,10 @@
 package thigk2.BuiHuynhAnhKiet;
 
 import java.util.Scanner;
-
+// Nhập chiều cao và cân nặng
+// Tính BMI = cân nặng / (chiều cao * chiều cao)
+// In ra BMI
+// Dùng if-else để phân loại: gầy, bình thường, thừa cân, béo phì
 public class tinhBMI {
 	public static void main(String[] args) {
         // BMI = cân nặng (kg) / (chiều cao (m) * chiều cao (m))
